@@ -3,3 +3,5 @@ const validateUser = (username, password) => {
 }
 
 console.log(`User ${validateUser('hehe', 'password') ? 'is valid':'is not valid'}`);
+
+console.log('new login heheh')
